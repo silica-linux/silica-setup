@@ -1,3 +1,5 @@
+![silica-setup](.github/banner.png)
+
 # silica-setup
 
 L'assistente al primo avvio di [Silica](https://github.com/silica-linux/silica-desktop): lingua,
