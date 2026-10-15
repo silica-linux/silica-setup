@@ -18,7 +18,7 @@
   <img alt="status: planned" src="https://img.shields.io/badge/status-planned-8a8a8a?style=flat-square">
 </p>
 
-A Flutter app like Mustache: it depends on [`silica_ui`](https://github.com/silica-linux/silica-ui)
+A Flutter app like Mustache: it depends on [`silica_ui`](https://github.com/silica-os/silica-ui)
 and is built with `cargo xtask bundle <path>` from silica-desktop.
 
 Behaviors are measured on macOS 27 in silica-reference; texts and graphics are our own.
